@@ -6,9 +6,9 @@ body, h1, p {
 
 /* Apply a background color and center the header text */
 header {
-
+    background-color: #3498db;
     text-align: center;
-
+    padding: 40px 0;
 }
 
 /* Add styles for the header image */
