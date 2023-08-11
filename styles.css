@@ -8,14 +8,13 @@ body, h1, p {
 header {
     background-color: #3498db;
     text-align: center;
-    padding: 80px 0;
+    padding: 50px 0;
 }
 
 /* Add styles for the header image */
 header img {
     width: 150px; /* Adjust the width as needed */
-    border-radius: 50%; /* To make the image circular */
-    border: 2px solid #3498db;
+
 }
 
 /* Style the header text */
