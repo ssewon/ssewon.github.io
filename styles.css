@@ -30,7 +30,7 @@ nav a {
     margin: 0 10px;
     text-decoration: none;
     color: #333;
-    font-style: bold;
+    font-weight: bold;
     transition: color 0.3s ease;
 }
 
@@ -57,18 +57,15 @@ p {
 }
 
 .education h2, .work-experience h2 {
-    font-size: 1.5em;
-    margin-bottom: 10px;
+    font-size: 2.0em;
 }
 
 .work-experience h3 {
     color: #3498db;
-    font-size: 1.2em;
-    margin-top: 10px;
+    font-size: 1.5em;
 }
 
 .work-experience h4 {
     font-size: 1.2em;
-    margin-top: 10px;
     font-style: italic;
 }
