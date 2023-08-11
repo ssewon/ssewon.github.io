@@ -1,19 +1,19 @@
-Reset default margin and padding
+/* Reset default margin and padding */
 body, h1, p {
     margin: 0;
     padding: 0;
 }
 
-/* Apply a background color and center the header text */
+/* Apply styles to the header */
 header {
     background-color: #3498db;
     text-align: center;
     padding: 40px 0;
 }
 
-/* Add styles for the header image */
+/* Style the header image */
 header img {
-    width: 10x; /* Adjust the width as needed */
+    width: 100px; /* Adjust the width as needed */
     margin-bottom: 10px;
 }
 
@@ -26,19 +26,19 @@ h1 {
 
 /* Style the header links */
 nav a {
-    margin: 0 10px; /* Add spacing between the links */
-    text-decoration: none; /* Remove underlines from links */
-    color: #333; /* Set link color */
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
     font-weight: bold;
-    transition: color 0.3s ease; /* Add a smooth color transition */
+    transition: color 0.3s ease;
 }
 
 /* Change link color on hover */
 nav a:hover {
-    color: #3498db; /* Change link color on hover */
+    color: #3498db;
 }
 
-/* Add some space to the main content */
+/* Add spacing to the main content */
 main {
     padding: 20px;
 }
@@ -52,7 +52,7 @@ p {
 
 /* Style the education and work experience sections */
 .education, .work-experience {
-    margin-bottom: 30px; /* Add spacing between sections */
+    margin-bottom: 30px;
 }
 
 .education h2, .work-experience h2 {
@@ -68,7 +68,7 @@ p {
 
 .work-experience h4 {
     font-size: 1.2em;
-    margin-top: 10px; /* Increase upper margin */
-    padding-top: 5px; /* Add upper padding */
+    margin-top: 10px;
+    padding-top: 5px;
     font-style: italic;
 }
