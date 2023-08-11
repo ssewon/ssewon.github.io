@@ -25,6 +25,20 @@ h1 {
     font-size: 2.5em;
 }
 
+/* Style the header links */
+nav a {
+    margin: 0 10px; /* Add spacing between the links */
+    text-decoration: none; /* Remove underlines from links */
+    color: #333; /* Set link color */
+    font-weight: bold;
+    transition: color 0.3s ease; /* Add a smooth color transition */
+}
+
+/* Change link color on hover */
+nav a:hover {
+    color: #3498db; /* Change link color on hover */
+}
+
 /* Add some space to the main content */
 main {
     padding: 20px;
