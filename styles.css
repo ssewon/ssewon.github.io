@@ -13,8 +13,8 @@ header {
 
 /* Add styles for the header image */
 header img {
-    width: 20px; /* Adjust the width as needed */
-    height: 20px;
+    width: 40px; /* Adjust the width as needed */
+    height: 40px;
     border-radius: 50%; /* To make the image circular */
     border: 2px solid #3498db; /* Add a border */
 }
@@ -49,4 +49,24 @@ p {
     font-size: 1.2em;
     line-height: 1.6;
     color: #333;
+}
+
+/* Style the education and work experience sections */
+.education, .work-experience {
+    margin-bottom: 30px; /* Add spacing between sections */
+}
+
+.education h2, .work-experience h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.education p, .work-experience h3, .work-experience p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+.work-experience h3 {
+    font-size: 1.2em;
+    margin-top: 10px;
 }
