@@ -13,7 +13,7 @@ header {
 
 /* Style the header image */
 header img {
-    width: 50px; /* Adjust the width as needed */
+    width: 150px; /* Adjust the width as needed */
     height: auto;
     margin-bottom: 10px;
 }
@@ -30,7 +30,7 @@ nav a {
     margin: 0 10px;
     text-decoration: none;
     color: #333;
-    font-weight: bold;
+    font-style bold;
     transition: color 0.3s ease;
 }
 
@@ -70,6 +70,5 @@ p {
 .work-experience h4 {
     font-size: 1.2em;
     margin-top: 10px;
-    padding-top: 5px;
     font-style: italic;
 }
