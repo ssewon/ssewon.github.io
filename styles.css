@@ -47,8 +47,7 @@ main {
 p {
     font-size: 1.2em;
     color: #333;
-    margin-top: 2px; /* Increase upper margin */
-    padding-top: 2px; /* Add upper padding */
+    margin-bottom: 15px;
 }
 
 /* Style the education and work experience sections */
@@ -58,11 +57,6 @@ p {
 
 .education h2, .work-experience h2 {
     font-size: 1.5em;
-    margin-bottom: 10px;
-}
-
-.education p, .work-experience h3, .work-experience p {
-    margin: 0;
     margin-bottom: 10px;
 }
 
