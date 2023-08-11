@@ -46,10 +46,9 @@ main {
 /* Style the main content paragraph */
 p {
     font-size: 1.2em;
-    line-height: 1.6;
     color: #333;
-    margin-top: 10px; /* Increase upper margin */
-    padding-top: 5px; /* Add upper padding */
+    margin-top: 2px; /* Increase upper margin */
+    padding-top: 2px; /* Add upper padding */
 }
 
 /* Style the education and work experience sections */
@@ -64,7 +63,7 @@ p {
 
 .education p, .work-experience h3, .work-experience p {
     margin: 0;
-    line-height: 1.6;
+    margin-bottom: 10px;
 }
 
 .work-experience h3 {
