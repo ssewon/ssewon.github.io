@@ -48,6 +48,8 @@ p {
     font-size: 1.2em;
     line-height: 1.6;
     color: #333;
+    margin-top: 10px; /* Increase upper margin */
+    padding-top: 5px; /* Add upper padding */
 }
 
 /* Style the education and work experience sections */
@@ -73,5 +75,7 @@ p {
 
 .work-experience h4 {
     font-size: 1.2em;
-    margin-top: 5px;
+    margin-top: 10px; /* Increase upper margin */
+    padding-top: 5px; /* Add upper padding */
+    font-style: italic;
 }
