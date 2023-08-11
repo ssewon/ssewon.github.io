@@ -8,12 +8,13 @@ body, h1, p {
 header {
     background-color: #3498db;
     text-align: center;
-    padding: 40px 0;
+    padding: 20px 0;
 }
 
 /* Style the header image */
 header img {
-    width: 100px; /* Adjust the width as needed */
+    width: 50px; /* Adjust the width as needed */
+    height: auto;
     margin-bottom: 10px;
 }
 
